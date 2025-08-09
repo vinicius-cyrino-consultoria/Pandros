@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Pandros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb4c48eab03278ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c94368152062c3c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Pandros"
             }
           }
         ]
@@ -186,6 +170,7 @@
   },
   "active": "cf87f7fd72344e8e",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Pandros.md"
   ]
 }
