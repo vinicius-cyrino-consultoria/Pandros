@@ -45,5 +45,51 @@ Tem a aba data que tem vários recursos.
 [statistics](https://www.reddit.com/r/statistics/)
 
 --- 
+##### Opendata AWS
+
+A Amazon através do marketplace da AWS oferece milhares de datasets
+[Dados abertos na AWS](https://aws.amazon.com/pt/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc)
+
+---
+##### Hero Forge
+
+Utilizado para criar miniaturas de personagens
+https://www.heroforge.com/
+
+---
+##### AnyDice 
+
+Utilizado para ver as probabilidades dos dados
+https://anydice.com/
+
+---
+##### Dungeons Scrawl 
+
+Para criar mapas de locais fechados
+https://app.dungeonscrawl.com/
+
+---
+##### Fantasy Name Generators 
+
+Para gerar nomes aleatórios 
+https://www.fantasynamegenerators.com/
+
+---
+##### Homebrewery 
+
+Para criar documentos
+https://homebrewery.naturalcrit.com/new
+
+---
+##### Inkarnate 
+	
+Para criar mapas
+https://inkarnate.com/
+
+---
+##### ArtStation 
+
+Para pegar imagens
+https://www.artstation.com/
 
 ## References
