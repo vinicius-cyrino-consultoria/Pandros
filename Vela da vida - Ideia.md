@@ -1,7 +1,7 @@
 
 ---
 
-#ideia
+#rascunho
 
 created: 2025-08-18 11:16
 

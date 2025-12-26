@@ -11,12 +11,12 @@ aliases: []
 
 As assembleias são utilizadas para gerir os aspectos socias da colônia.
 
-Assembleia Regional
+[[Regional Congress]]
 	Cada região tem uma assembleia
-Assembleia Setorial
+[[Thematic Assembly]]
 	Cada setor dentro de cada região tem uma assembleia
 		Exemplos: Parques, Esportes, Comida
-Assembleia Local
+[[Town Hall]]
 	Cada unidade tem uma assembleia
 	Exemplo: Assembleia do parque X, assembleia da cozinha comunal Y
 

@@ -1,0 +1,12 @@
+
+---
+
+#humanos 
+
+created: 2025-12-26 13:56
+
+aliases: []
+
+---
+
+## References

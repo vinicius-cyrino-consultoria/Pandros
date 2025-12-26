@@ -11,13 +11,13 @@ aliases: []
 
 Os conselhos são a forma de governo e decisões econômicas dos [[Humans]]. Eles funcionam da seguinte forma:
 
-Conselho Geral
+[[General Board]]
 	Cada área tem um conselho geral que toma as decisões, sempre junto com [[Aletheia]]. 
 	Exemplo: Conselho geral da mineração, conselho geral da metalurgia. 
-[[Conselhos Setoriais]]
+[[Sector Committee]]
 	Cada setor de cada área tem um conselho.
 	Exemplo: Conselho setorial da mineração de Ferro, Conselho setorial da mineração de Uranio
-Conselho Fabril
+[[Site Council]]
 	Cada fabrica tem um conselho.
 	Exemplo: Conselho fabril da mina de Ferro X,  Conselho fabril da mina de Ferro Y
 
