@@ -1,7 +1,7 @@
 
 ---
 
-#economia
+#humanos 
 
 created: 2025-12-24 19:58
 

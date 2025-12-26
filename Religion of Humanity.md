@@ -1,7 +1,7 @@
 
 ---
 
-#ideologia
+#humanos 
 
 created: 2025-12-23 12:04
 

@@ -1,7 +1,7 @@
 
 ---
 
-#localização 
+#humanos 
 
 created: 2025-12-22 20:16
 

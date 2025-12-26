@@ -1,7 +1,7 @@
 
 ---
 
-#localização
+#bwaps
 
 created: 2025-12-21 18:15
 

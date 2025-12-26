@@ -1,7 +1,7 @@
 
 ---
 
-#localização 
+#humanos 
 
 created: 2025-12-22 22:10
 
@@ -12,12 +12,12 @@ aliases: []
 **Localização:** Atol de [[Atta-pawa-a]]. 
 **População:** Human. 
 **Filosofia:** [[Grid-Keepers]]
-**Fonte de Energia:** Conectada via cabo submarino ao **[[Tidal Port 4]]**.
+**Fonte de Energia:** Conectada via cabo submarino ao **[[TP 4]]**.
 
 --------------------------------------------------------------------------------
 
 
-Originalmente projetada para maximizar a extração de recursos biológicos, a instalação foca na produção em massa de **[[Brochoadmones]]**, **[[Limo-Solar]]** e algas. Toda a produção é escoada via barcas de carga herméticas para o **[[Tidal Port 4]]**, de onde seguiam para os grandes Centros Humanos.
+Originalmente projetada para maximizar a extração de recursos biológicos, a instalação foca na produção em massa de **[[Brochoadmones]]**, **[[Limo-Solar]]** e algas. Toda a produção é escoada via barcas de carga herméticas para o **[[TP 4]]**, de onde seguiam para os grandes Centros Humanos.
 
 --------------------------------------------------------------------------------
 #### 1. **O Monólito Central:** 

@@ -1,7 +1,7 @@
 
 ---
 
-#meta 
+#humanos 
 
 created: 2025-12-22 19:42
 

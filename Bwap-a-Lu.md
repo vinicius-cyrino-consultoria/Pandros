@@ -1,7 +1,7 @@
 
 ---
 
-#veiculo 
+#bwaps 
 
 created: 2025-12-22 19:02
 
@@ -9,7 +9,7 @@ aliases: []
 
 ---
 
-Para pescar no mar aberto ou viajar entre ilhas, os Bwaps precisam de embarcações robustas capazes de resistir ao oceano e, principalmente, não serem vistas como "isca" pelo gigantesco **[[Awahallapah]]**.
+Para pescar no mar aberto ou viajar entre ilhas, os [[Bwaps]] precisam de embarcações robustas capazes de resistir ao oceano e, principalmente, não serem vistas como "isca" pelo gigantesco **[[Awahallapah]]**.
 
 • **Design Semi-Submersível:** O barco tem um perfil extremamente baixo. O convés é arredondado e selado (semelhante a um submarino na superfície ou casco de tartaruga), feito de madeira curvada e reforçada com o padrão _scaffold-pattern_ (treliça de osso). A água do mar lava constantemente o convés, mantendo a temperatura fresca.
 

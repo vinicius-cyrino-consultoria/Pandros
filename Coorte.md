@@ -1,7 +1,7 @@
 
 ---
 
-#cultura 
+#humanos 
 
 created: 2025-12-23 15:22
 
