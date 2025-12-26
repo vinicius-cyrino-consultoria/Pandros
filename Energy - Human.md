@@ -10,4 +10,5 @@ aliases: []
 ---
 
 ### [[Solar Panels]]
+### [[Fusion Reactors]]
 ## References
