@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0249543b0b81e72d",
+        "id": "0ef54bd3752b8a04",
         "type": "tabs",
         "children": [
           {
-            "id": "9029624445bd19ff",
+            "id": "58576060dab62840",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humans - Rascunho.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Humans - Rascunho"
-            }
-          },
-          {
-            "id": "eb3ac8e799922f83",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humans.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Humans"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "547299318ee2b98b",
+  "active": "58576060dab62840",
   "lastOpenFiles": [
+    "templates/Espécie.md",
+    "Processo de Colonização.md",
+    "Frota de Colonização.md",
+    "Humans.md",
     "Wak-a-Wapawab.md",
     "TP 4.md",
     "Pandros.md",
@@ -204,7 +185,6 @@
     "Wapa-Kaa.md",
     "White Garment.md",
     "Yellow Garment.md",
-    "Humans.md",
     "The Wanderers.md",
     "Sponge Moss.md",
     "Social Baptism.md",
@@ -213,9 +193,6 @@
     "Resource allocation.md",
     "Religion of Humanity.md",
     "Reepa-Reep.md",
-    "Rebellatrix.md",
-    "Purple Garment.md",
-    "Processo de Colonização.md",
     "Pasted image 20251224183041.png",
     "Pasted image 20251223215259.png",
     "Pasted image 20251223214235.png",
