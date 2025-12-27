@@ -28,25 +28,11 @@ aliases: []
 
 ### 4. [[Humans - Politics]]
 
-- **Forma de Governo:** (Monarquia, Teocracia, República, Anarquia, Oligarquia Mágica).
-    
-- **Sucessão:** Como o poder é transferido? (Hereditário, votação, duelo até a morte, escolha divina).
-    
-- **Leis e Punições:** O que é considerado o pior crime possível? Como é punido?
-    
-- **Forças Armadas:** Exército profissional, milícias cidadãs, mercenários ou magia de guerra?
-    
-
 ### 5. Economia e Tecnologia
 
-- **Subsistência:** Como eles se alimentam? (Agricultura, caça, pesca, invasão/saque, magia).
-    
-- **Moeda e Comércio:** Usam moedas de ouro, troca direta (escambo) ou sistema de crédito?
-    
-- **Nível Tecnológico:** Idade da Pedra, Renascença, Steampunk?
-    
-- **Artesanato/Indústria Principal:** Pelo que eles são famosos no mundo? (Espadas, tecidos, navios, poções).
-    
+- **Subsistência:** [[Human Food]], [[Human Water]]
+- **Energia**: [[Energy - Human]]
+- **Economia**: [[Resource allocation]]
 
 ### 6. Cultura, Religião e Magia
 
