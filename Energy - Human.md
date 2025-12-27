@@ -11,4 +11,6 @@ aliases: []
 
 ### [[Solar Panels]]
 ### [[Fusion Reactors]]
+### [[Deep Geothermal]]
+### [[Tidal Stream Generators]]
 ## References
