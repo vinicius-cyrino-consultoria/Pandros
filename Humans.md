@@ -35,7 +35,7 @@ aliases: []
 - **Economia**: [[Resource allocation]]
 
 ### 6. Cultura, Religião e Magia
-
+	
 - **Crenças Principais:** Monoteístas, politeístas, animistas (espíritos da natureza) ou ateus?
     
 - **Magia:** A magia é sagrada, proibida, uma ciência ou algo cotidiano?
@@ -49,7 +49,7 @@ aliases: []
 
 ### 7. Estética e Vida Cotidiana
 
-- **Arquitetura:** Quais materiais usam? Formas redondas ou pontiagudas?
+- **Arquitetura:** [[Habitat & Architecture]]
     
 - **Vestimenta:** O que usam no dia a dia? E em festas?
     
