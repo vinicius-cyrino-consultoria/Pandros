@@ -11,6 +11,6 @@ aliases: []
 
 ### [[Capacete-Interface]]
 ### [[Energy - Human]]
-### [[Food - Human]]
+### [[Human Food]]
 
 ## References
