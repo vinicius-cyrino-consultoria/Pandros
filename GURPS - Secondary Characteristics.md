@@ -18,4 +18,6 @@ São características básicas que são determinadas pela suas [[GURPS - Basic A
 - [[GURPS - Perception]]
 - [[GURPS - Fatigue Points]]
 - [[GURPS - Basic Speed]]
+- [[GURPS - Basic Move]]
+- [[GURPS - Encumbrance]]
 ## References

@@ -19,4 +19,35 @@ Os jogadores recebem uma quantidade de pontos iniciais, 30 para jogos com jogado
 
 [[GURPS - Basic Attributes]]
 [[GURPS - Secondary Characteristics]]
+
+#### 2. Escolha o visual do seu personagem
+
+[[GURPS - Build]]
+[[GURPS - BEAUTY]]
+
+#### 3. Escolha qual seu papel social
+
+[[GURPS - Technology Level]]
+[[GURPS - Culture]]
+[[GURPS - Language]]
+[[GURPS - WEALTH]]
+[[GURPS - INFLUENCE]]
+[[GURPS - FRIENDS AND FOES]]
+
+#### 4. Escolha suas vantagens
+
+[[GURPS - Advantages]]
+[[GURPS - Perks]]
+
+#### 5. Escolha suas desvantagens
+
+[[GURPS - Disadvantages]]
+[[GURPS - Quirks]]
+
+#### 6. Escolha suas habilidades
+
+[[GURPS - Skills]]
+[[GURPS - Techniques]]
+
+
 ## References

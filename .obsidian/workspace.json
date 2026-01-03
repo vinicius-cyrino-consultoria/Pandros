@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "07f3b7f0e2244791",
+            "id": "e1010bb2c4bac99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GURPS - Secondary Characteristics.md",
+                "file": "GURPS - Character Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GURPS - Secondary Characteristics"
+              "title": "GURPS - Character Creation"
             }
           }
         ],
@@ -184,11 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f3b7f0e2244791",
+  "active": "e1010bb2c4bac99e",
   "lastOpenFiles": [
+    "GURPS - Technology Level.md",
+    "GURPS - Character Creation.md",
+    "GURPS - Build.md",
+    "GURPS - BEAUTY.md",
+    "GURPS - OTHER PHYSICAL FEATURES.md",
+    "GURPS - REACTION ROLLS.md",
+    "GURPS.md",
+    "GURPS - Secondary Characteristics.md",
+    "GURPS - Encumbrance.md",
+    "Pasted image 20260103165922.png",
+    "GURPS - Basic Move.md",
     "GURPS - Basic Speed.md",
     "GURPS - Dodge.md",
-    "GURPS - Secondary Characteristics.md",
     "GURPS - Hit Points.md",
     "GURPS - Health.md",
     "GURPS - Fatigue Points.md",
@@ -197,22 +207,13 @@
     "GURPS - Basic Lift.md",
     "GURPS - Damage.md",
     "Pasted image 20260103162836.png",
-    "GURPS - Character Creation.md",
-    "GURPS.md",
     "GURPS - Basic Attributes.md",
     "GURPS - Intelligence.md",
     "GURPS - Dexterity.md",
     "GURPS - Strength.md",
     "GURPS - Damage Rolls.md",
-    "GURPS - REACTION ROLLS.md",
     "GURPS - Contests of Skill.md",
     "GURPS - SUCCESS ROLLS.md",
-    "GURPS - Critical Success and Failure.md",
-    "Traveller - Education.md",
-    "Traveller - Skills.md",
-    "Equipment- Human.md",
-    "Humans.md",
-    "Desalination UDN-60.md",
     "Pasted image 20251224183041.png",
     "Pasted image 20251223215259.png",
     "Pasted image 20251223214235.png",
@@ -221,7 +222,6 @@
     "Pasted image 20251223202540.png",
     "Pasted image 20251223201709.png",
     "Pasted image 20251222220633.png",
-    "Pasted image 20251222190643.png",
     "templates"
   ]
 }
