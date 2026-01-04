@@ -46,6 +46,9 @@ Os K'kree possuem quatro membros posteriores adaptados para a locomoção, termi
     - _Olfato:_ Tem um olfato apurado;
     - *Audição:* Tem uma boa audição e conseguem ouvir 360° sem mexer a cabeça;
     - *Tato:* Tem um senso apurado, conseguindo sentir um inseto pousando em qualquer lugar do seu corpo;
+-  **Comunicação:**
+	- Sons: Se comunicam produzindo sons de garganta, como estalos e relinchos;
+	- Linguagem Corporal: A linguagem corporal junto com os sons produzem os significado completo deles;
 	
 ![[Pasted image 20260104150239.png]]
 
@@ -75,7 +78,7 @@ _A "personalidade padrão" da espécie antes da cultura interferir._
 - **Atributos Físicos:** 
 	- São rápidos tanto em tiro curto quanto em grandes distancias;
 	- Por suarem conseguem manter o ritmo de corrida por grandes distancias; 
-	- São bastante fortes, podendo gerar ate 25 cavalos de potencia; 
+	- São bastante fortes;
 	- Suas pernas e patas são sensíveis e conforme envelhecem tem problemas cada vez maiores nessas partes;
 ### 7. Origem Evolutiva e Habitat
 

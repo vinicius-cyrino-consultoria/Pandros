@@ -22,6 +22,7 @@ aliases: []
 - **Sentidos:** Como eles percebem o mundo?
     - _Visão:_ Enxergam no escuro? Veem espectro de calor?
     - _Outros:_ Têm olfato apurado? Ecolocalização? Sentem magia?
+-  **Comunicação:**
 
 ### 3. Ciclo de Vida e Reprodução
 

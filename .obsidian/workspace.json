@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#skarn",
+                "query": "K'",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "388d9c54ceff7404",
+  "active": "547299318ee2b98b",
   "lastOpenFiles": [
+    "templates/Espécie.md",
+    "Skarn.md",
+    "K'Kree.md",
     "Pasted image 20260104150239.png",
     "Pasted image 20260104150213.png",
     "Pasted image 20260104150210.png",
-    "K'Kree.md",
-    "Skarn.md",
     "Skarns.md",
     "Skarn - Soldiers.md",
     "Skarn - Social Structure.md",
@@ -206,7 +207,6 @@
     "Pasted image 20251223214235.png",
     "Pasted image 20251223213633.png",
     "Pasted image 20251223212733.png",
-    "Pasted image 20251223202540.png",
     "templates"
   ]
 }
