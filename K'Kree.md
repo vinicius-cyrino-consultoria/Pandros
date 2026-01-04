@@ -72,16 +72,13 @@ _A "personalidade padrão" da espécie antes da cultura interferir._
 - **Estrutura Mental:** São coletivistas, tendo pouca individualidade. As diferenças socias se manifestam no nível das famílias. 
 ### 6. Habilidades Naturais (Traits)
 
-- **Atributos Físicos:** São super fortes, muito rápidos ou extremamente resistentes?
-- **Habilidades Especiais:** Voo, respiração aquática, regeneração rápida, mudança de cor (camuflagem).
-- **Afinidade Mágica/Psiônica:** A espécie tem um dom natural para magia ou poderes mentais?
-
+- **Atributos Físicos:** 
+	- São rápidos tanto em tiro curto quanto em grandes distancias;
+	- Por suarem conseguem manter o ritmo de corrida por grandes distancias; 
+	- São bastante fortes, podendo gerar ate 25 cavalos de potencia; 
+	- Suas pernas e patas são sensíveis e conforme envelhecem tem problemas cada vez maiores nessas partes;
 ### 7. Origem Evolutiva e Habitat
 
-- **Habitat Original:** Onde evoluíram? (Florestas densas, cavernas escuras, oceanos, planícies de baixa gravidade). _Isso explica por que eles têm a aparência que têm._
-- **Nicho Ecológico:** Eles eram predadores de topo ou presas que precisavam se esconder?
-
-### 8. Variações (Sub-espécies)
-
-- A espécie é homogênea ou existem variantes? (ex: Elfos da Floresta vs. Elfos do Mar). Quais as diferenças físicas entre eles?
+- **Habitat Original:** Evoluíram em grandes campos abertos; 
+- **Nicho Ecológico:** Presas;
 ## References
