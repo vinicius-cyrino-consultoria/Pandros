@@ -13,8 +13,8 @@ aliases: []
 
 As fêmeas são biologicamente maiores, possuindo placas de quitina mais espessas e musculatura densa. Elas compõem 70% da população.
 
-- **[[Skarn - Workers]] (As Escavadoras):** A base da sociedade. Responsáveis pela mineração bruta, transporte de cargas, agricultura de fungos e expansão dos túneis. Sua dieta é rica em carboidratos para energia constante.
-- **[[Skarn - Soldiers]] (As Quebra-Ossos):** Fêmeas selecionadas na fase larval para receber uma dieta de _Proteína Pura e Cálcio_. São gigantescas (quase 2x o tamanho de um macho), atuando como guardas, guerreiras de fronteira e executoras da lei. São conhecidas por sua lealdade inabalável e baixa criatividade.
+- **[[Skarn - Workers]]**
+- **[[Skarn - Soldiers]]** 
 
 #### 2. Os Machos: A Mente da Colmeia
 
