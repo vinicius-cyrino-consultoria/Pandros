@@ -29,12 +29,7 @@ _O ambiente dita o comportamento. Pessoas na tundra vivem diferente de pessoas n
 ### 4. [[K'Kree - Politics]]
 ### 5. [[K'Kree - Economy]] 
 ### 6. [[K'Kree - Culture]]
-### 7. Estética e Vida Cotidiana
-
-- **Arquitetura:** Quais materiais usam? Formas redondas ou pontiagudas?
-- **Vestimenta:** O que usam no dia a dia? E em festas?
-- **Culinária:** Qual é o prato típico? O que eles bebem?
-- **Arte e Lazer:** Quais instrumentos tocam? Que jogos jogam?
+### 7. [[K'Kree - Aesthetics]]
 ### 8. História e Legado
 
 - **Mito de Origem:** Como eles acreditam que o seu povo surgiu? (Descenderam das estrelas? Foram moldados do barro por um deus? Eram exilados de outra terra?).
