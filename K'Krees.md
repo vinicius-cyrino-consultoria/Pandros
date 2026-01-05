@@ -27,13 +27,7 @@ _O ambiente dita o comportamento. Pessoas na tundra vivem diferente de pessoas n
 ### 3. [[K'Kree - Social Structure]]
 
 ### 4. [[K'Kree - Politics]]
-### 5. Economia e Tecnologia
-
-- **Subsistência:** Como eles se alimentam? (Agricultura, caça, pesca, invasão/saque, magia).
-- **Moeda e Comércio:** Usam moedas de ouro, troca direta (escambo) ou sistema de crédito?
-- **Nível Tecnológico:** Idade da Pedra, Renascença, Steampunk?
-- **Artesanato/Indústria Principal:** Pelo que eles são famosos no mundo? (Espadas, tecidos, navios, poções).
-
+### 5. [[K'Kree - Economy]] 
 ### 6. Cultura, Religião e Magia
 
 - **Crenças Principais:** Monoteístas, politeístas, animistas (espíritos da natureza) ou ateus?

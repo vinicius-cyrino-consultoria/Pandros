@@ -10,11 +10,11 @@ aliases: []
 ---
 A sociedade divide-se em três funções primárias:
 
-1. **Trabalhadores:** Responsáveis pela execução de trabalhos manuais e braçais.
+1. **[[K'Kree - Workers]]:** Responsáveis pela execução de trabalhos manuais e braçais.
     
-2. **Mercadores:** A classe profissional e intelectual, englobando comerciantes, estudiosos, artistas e engenheiros.
+2. **[[K'Kree - Merchants]]:** A classe profissional e intelectual, englobando comerciantes, estudiosos, artistas e engenheiros.
     
-3. **Nobres:** A elite governante, composta por comandantes militares, líderes de guildas mercantes e governantes dos Rebanhos.
+3. **[[K'Kree - Nobles]]:** A elite governante, composta por comandantes militares, líderes de guildas mercantes e governantes dos Rebanhos.
 
 Fêmeas solteiras e outras espécies são consideradas sem casta e são toleradas na medida que forem uteis. 
 
