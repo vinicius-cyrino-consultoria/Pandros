@@ -10,11 +10,11 @@ aliases: []
 ---
 ### 1. Identidade e Visão Geral
 
-- **Nome da Cultura/Nação:**
-- **Gentílico (Adjetivo pátrio):** (ex: Gondoriano, Valiriano)
-- **Conceito Central (O "Hook"):** Em uma frase, quem são eles? (ex: "Nômades do deserto que veneram o vidro vulcânico.")
-- **Símbolos Principais:** (Bandeiras, animais sagrados, cores representativas).
-- **Espécie:**
+- **Nome da Cultura/Nação:** Ancinos Herd
+- **Gentílico (Adjetivo pátrio):** 
+- **Conceito Central (O "Hook"):** 
+- **Símbolos Principais:** 
+- **Espécie:** [[K'Kree]]
 ### 2. Geografia e Ambiente
 
 _O ambiente dita o comportamento. Pessoas na tundra vivem diferente de pessoas na selva._
