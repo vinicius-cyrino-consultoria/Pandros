@@ -28,14 +28,7 @@ _O ambiente dita o comportamento. Pessoas na tundra vivem diferente de pessoas n
 
 ### 4. [[K'Kree - Politics]]
 ### 5. [[K'Kree - Economy]] 
-### 6. Cultura, Religião e Magia
-
-- **Crenças Principais:** Monoteístas, politeístas, animistas (espíritos da natureza) ou ateus?
-- **Magia:** A magia é sagrada, proibida, uma ciência ou algo cotidiano?
-- **Tabus:** O que é estritamente proibido fazer ou dizer? (ex: Nunca mostrar a sola do pé, nunca comer carne de cavalo).
-- **Ritos de Passagem:** O que marca a transição de criança para adulto?
-- **Morte e Enterro:** Cremação, enterro, mumificação? O que acontece após a morte?
-
+### 6. [[K'Kree - Culture]]
 ### 7. Estética e Vida Cotidiana
 
 - **Arquitetura:** Quais materiais usam? Formas redondas ou pontiagudas?
