@@ -27,20 +27,7 @@ aliases: []
 
 ### 4. [[Skarn - Politics]]
 
-### 5. Economia e Tecnologia
-
-- **Subsistência:**
-    
-    - _Agricultura:_ Fazendas verticais de fungos e criação de "Besouros de Gado".
-        
-    - _Litofagia:_ Consumo direto de minerais selecionados para manutenção da saúde.
-        
-- **Moeda e Comércio:** "Placas de Peso". A moeda é literalmente barras de metal refinado com texturas complexas que indicam pureza e peso. O valor é intrínseco ao material.
-    
-- **Nível Tecnológico:** Alta Metalurgia e Engenharia Mecânica (bombas de pressão, elevadores de engrenagem), mas sem pólvora ou eletrônica.
-    
-- **Artesanato/Indústria Principal:** Metalurgia de precisão (armas inquebráveis), lapidação de gemas táteis, arquitetura subterrânea.
-    
+### 5. [[Skarn - Economy]]
 
 ### 6. Cultura, Religião e Magia
 

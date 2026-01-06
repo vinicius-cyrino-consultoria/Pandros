@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "cfaf8cc8a3d0d637",
+            "id": "c7f9cdf3fad90753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skarn - Politics.md",
+                "file": "Skarn - Economy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skarn - Politics"
+              "title": "Skarn - Economy"
+            }
+          },
+          {
+            "id": "0d5b78f0ca064aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skarn - Guild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skarn - Guild"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfaf8cc8a3d0d637",
+  "active": "0d5b78f0ca064aa3",
   "lastOpenFiles": [
+    "Skarn - Economy.md",
     "Skarn - Guild.md",
     "Skarn - Politics.md",
     "Skarns.md",
@@ -214,7 +229,6 @@
     "Pasted image 20260104150210.png",
     "Skarn - Soldiers.md",
     "Skarn - Workers.md",
-    "Skarn - Supreme Fiefdom.md",
     "Pasted image 20260103165922.png",
     "Pasted image 20260103162836.png",
     "Pasted image 20251224183041.png",

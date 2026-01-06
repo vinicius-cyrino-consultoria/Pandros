@@ -9,24 +9,17 @@ aliases: []
 
 ---
 
-**Visão Geral** As guildas constituem a unidade fundamental de organização socioeconômica, política, religiosa e cultural dentro de um feudo [[Skarn]]. Elas operam como entidades corporativas que detêm o monopólio absoluto sobre a produção de categorias específicas de bens ou serviços. Suas atribuições incluem a regulação de preços, a definição de padrões de qualidade e a preservação dos métodos de manufatura e segredos industriais.
+**Natureza e Função** As guildas são a unidade fundamental da sociedade (política, religiosa e cultural). Elas operam como entidades corporativas com monopólio absoluto sobre a produção de bens ou serviços, regulação de preços, padrões de qualidade e segredos industriais.
 
-**Hierarquia e Demografia** A afiliação a uma guilda é compulsória para todos os cidadãos Skarn, com a única exceção da [[Skarn - Queen]] e dos membros de seu Círculo Interno.
-
-Internamente, as guildas controlam rigorosamente a população ativa:
-
-- **Mestres e Aprendizes:** A guilda determina a quantidade permitida de especialistas técnicos e o fluxo de formação de novos membros.
-    
-- **Mão de Obra ([[Skarn - Workers]]):** Cada guilda aloca um contingente de [[Skarn - Workers]] destinado exclusivamente às tarefas braçais e repetitivas. A densidade populacional desta casta varia conforme a natureza da indústria; guildas de agricultura, mineração, construção e escavação de túneis possuem contingentes de trabalhadores exponencialmente maiores do que guildas de manufatura especializada, como a de metalurgia ou joalheria.
+- **O Produtor Individual:** Mantém autonomia operacional na sua oficina, mas deve submissão total às políticas macroeconômicas da sua guilda.
     
 
-**Comércio e Relações Externas** A **Guilda de Comércio** ocupa uma posição singular na sociedade Skarn. Diferente das guildas produtoras, ela detém a custódia do [[Skarn - Gate]] e o monopólio das interações econômicas com o mundo exterior, servindo como o único canal oficial de importação e exportação.
+**Cidadania e Demografia** A afiliação é compulsória. A cidadania em Skarn é definida pela filiação a uma guilda, sendo a **[[Skarn - Queen]]** e seu Círculo Interno as únicas exceções. Internamente, a população é rigorosamente controlada:
 
-**Dinâmica Política e Geopolítica** A autoridade central da [[Skarn - Queen]] varia de acordo com o feudo, existindo num espectro de poder que oscila entre o absolutismo real e uma oligarquia controlada pelos grão-mestres das guildas.
-
-A diversidade econômica entre os feudos gera tensões geopolíticas constantes. O cenário atual divide-se em duas correntes:
-
-1. **Isolacionismo:** Defendido pelas guildas tradicionais que buscam proteger seus monopólios locais e autonomia produtiva.
+- **Mestres e Aprendizes:** A elite técnica. A guilda controla artificialmente a quantidade de especialistas.
     
-2. **Interdependência:** Necessária para feudos que sofreram especialização extrema (ex: focados exclusivamente em agricultura), resultando no atrofiamento ou destruição de suas guildas de manufatura, o que os obriga a buscar maior intercâmbio comercial com feudos vizinhos.
+- **Mão de Obra ([[Skarn - Workers]]):** Uma casta destinada a tarefas braçais. Sua densidade varia conforme a indústria: é exponencialmente maior na agricultura e mineração do que na joalheria ou metalurgia.
+    
+
+**A Guilda de Comércio** Esta guilda ocupa uma posição singular: diferente das produtoras, ela não fabrica bens, mas detém a custódia do Portão e o monopólio logístico das interações econômicas.
 ## References
