@@ -9,45 +9,67 @@ aliases: []
 
 ---
 
-A melhor maneira de criar um personagem é primeiro criar uma historia para ele.
+> **Conceito Primeiro, Números Depois:** A maneira mais eficaz de criar um personagem é começar pela sua história. Quem ele é? O que ele deseja? Defina a alma do personagem antes de tocar nos dados.
 
-Os jogadores recebem uma quantidade de pontos iniciais, 30 para jogos com jogadores com personagens normais e 100 é o padrão. Também é bom limitar a quantidade de pontos os jogadores podem receber de volta por pegar desvantagens, normalmente é 50% dos pontos.
+**Nível de Poder e Pontuação** O Mestre definirá a pontuação inicial baseada no nível de realismo e heroísmo da campanha:
 
-# Checklist
+- **30 Pontos:** Pessoas comuns e aventuras mundanas.
+    
+- **100 Pontos:** O padrão para heróis iniciantes e aventureiros competentes.
+    
 
-#### 1. Escolher os atributos básicos e secundários
+**Limite de Desvantagens** Para manter o equilíbrio, existe um limite de pontos que podem ser recuperados através de desvantagens. A recomendação padrão é de até **50% da pontuação inicial** (ex: em um jogo de 100 pontos, você pode ter até -50 pontos em desvantagens).
 
-[[GURPS - Basic Attributes]]
-[[GURPS - Secondary Characteristics]]
+---
 
-#### 2. Escolha o visual do seu personagem
+### Checklist de Criação
 
-[[GURPS - Build]]
-[[GURPS - BEAUTY]]
+Siga esta ordem para converter sua ideia em regras de jogo:
 
-#### 3. Escolha qual seu papel social
+#### 1. A Base: Atributos
 
-[[GURPS - Technology Level]]
-[[GURPS - Culture]]
-[[GURPS - Language]]
-[[GURPS - WEALTH]]
-[[GURPS - INFLUENCE]]
-[[GURPS - FRIENDS AND FOES]]
+Defina as capacidades físicas e mentais brutas do seu personagem.
 
-#### 4. Escolha suas vantagens
+- [[GURPS - Basic Attributes]]
+- [[GURPS - Secondary Characteristics]]
 
-[[GURPS - Advantages]]
-[[GURPS - Perks]]
+#### 2. A Aparência: Visual e Biotipo
 
-#### 5. Escolha suas desvantagens
+Como o seu personagem se parece? Defina sua constituição física e atratividade.
 
-[[GURPS - Disadvantages]]
-[[GURPS - Quirks]]
+- [[GURPS - Build]]
+- [[GURPS - BEAUTY]]
 
-#### 6. Escolha suas habilidades
+#### 3. O Papel Social: Contexto e Recursos
 
-[[GURPS - Skills]]
-[[GURPS - Techniques]]
+Onde ele se encaixa no mundo? Defina sua riqueza, cultura e influência.
 
+- [[GURPS - Technology Level]]
+- [[GURPS - Culture]]
+- [[GURPS - Language]]
+- [[GURPS - WEALTH]]
+- [[GURPS - INFLUENCE]]
+- [[GURPS - FRIENDS AND FOES]]
+
+#### 4. Vantagens: O Que o Destaca
+
+Quais dons inatos ou privilégios sociais ele possui?
+
+- [[GURPS - Advantages]]
+- [[GURPS - Perks]] - OPCIONAL
+
+#### 5. Desvantagens: Falhas e Problemas
+
+O que torna sua vida difícil? Escolha problemas físicos, mentais ou sociais (respeitando o limite da mesa).
+
+- [[GURPS - Disadvantages]]
+- [[GURPS - Quirks]] - OPCIONAL
+
+#### 6. Perícias: O Que Ele Sabe Fazer
+
+Converta o treinamento e a experiência de vida do personagem em habilidades de jogo.
+
+- [[GURPS - Skills]]
+- [[GURPS - Techniques]] - OPCIONAL
 
 ## References
