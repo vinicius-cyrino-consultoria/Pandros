@@ -19,4 +19,5 @@ Existem quatro tipos de rolamentos:
 4. [[GURPS - Damage Rolls]]
 
 ## [[GURPS - Character Creation]]
+## [[GURPS - Combat]]
 ## References
