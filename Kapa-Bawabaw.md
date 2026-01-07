@@ -10,7 +10,7 @@ aliases: []
 ---
 
 **Classificação:** Moluscoide Semiaquático Gigante 
-**Habitat Natural:** Pântanos de
+**Habitat Natural:** Pântanos
 **Tamanho Médio:** Entre 140 e 170 centímetros de altura, entre 230 e 250 centímetros de comprimento e 60 centímetros de espessura. 
 **Peso Médio**: Entre 650 e 800 quilogramas. 
 

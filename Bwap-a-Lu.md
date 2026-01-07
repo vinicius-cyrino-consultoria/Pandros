@@ -18,4 +18,6 @@ Para pescar no mar aberto ou viajar entre ilhas, os [[Bwaps]] precisam de embarc
 • **Velas de Couro:** Em vez de pano, usam velas feitas do couro curtido de **[[Kapa-Bawabaw]]**, que é impermeável e resistente a rasgos. A cordoaria é feita da fibra dura do **[[Sandpaper Reed]]**.
 
 • **Defesa Passiva:** O casco possui "espinhos" falsos ou texturas ásperas (imitação de coral) para desencorajar o **[[Awahallapah]]** de tentar morder ou virar a embarcação.
+
+![[Pasted image 20260107160346.png]]
 ## References
