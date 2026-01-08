@@ -117,4 +117,5 @@ O combate segue uma sequência de **3 Jogadas de Dados:
 2. **[[GURPS -  Defense]]:** Se o ataque acertou, o defensor testa sua Defesa.
 3. **[[GURPS - Attack Damage]]:** Se a defesa falhou, o atacante rola o dano.
 ---
+## 3. [[GURPS - Unarmed Combat]]
 ## References

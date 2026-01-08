@@ -20,4 +20,6 @@ Existem quatro tipos de rolamentos:
 
 ## [[GURPS - Character Creation]]
 ## [[GURPS - Combat]]
+## [[GURPS - Equipment and TL]]
+## [[GURPS - Character Advancement]]
 ## References

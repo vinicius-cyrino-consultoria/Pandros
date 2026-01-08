@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84a6dca063584cb2",
+        "id": "3f74f20fc5419583",
         "type": "tabs",
         "children": [
           {
-            "id": "282bbca639f74cf3",
+            "id": "803ec021cf058862",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "6d73286a53335717",
+            "id": "c7bbbef98d2dcd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GURPS - Combat.md",
+                "file": "GURPS - Character Advancement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GURPS - Combat"
+              "title": "GURPS - Character Advancement"
             }
           }
         ],
@@ -184,13 +184,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d73286a53335717",
+  "active": "c7bbbef98d2dcd0f",
   "lastOpenFiles": [
-    "GURPS - Attack Damage.md",
+    "GURPS - Character Advancement.md",
+    "GURPS.md",
+    "GURPS - Equipment and TL.md",
+    "GURPS - Guns.md",
+    "GURPS - Range Weapons.md",
+    "GURPS - Melee Weapons.md",
+    "GURPS - Armor.md",
+    "GURPS - Shield.md",
+    "Technological Level.md",
+    "TL4.md",
+    "TL3.md",
+    "TL2.md",
+    "TL1.md",
+    "TL0.md",
     "GURPS - Combat.md",
+    "GURPS - Unarmed Combat.md",
+    "GURPS - Attack Damage.md",
     "GURPS -  Defense.md",
     "GURPS - Attack.md",
-    "GURPS.md",
     "GURPS - SUCCESS ROLLS.md",
     "GURPS - Basic Move.md",
     "GURPS - Character Creation.md",
@@ -198,12 +212,7 @@
     "GURPS - Techniques.md",
     "GURPS - Disadvantages.md",
     "GURPS - Advantages.md",
-    "GURPS - WEALTH.md",
-    "GURPS - Technology Level.md",
-    "Bwap-a-Lu.md",
-    "Awahallapah.md",
     "Pasted image 20260107160346.png",
-    "Bwaps Naval Tecnology.md",
     "Pasted image 20251222142930.png",
     "Pasted image 20251222142435.png",
     "Pasted image 20251222142314.png",
@@ -213,15 +222,6 @@
     "Atta-pawa-a 2025-12-22-14-32.png",
     "Pasted image 20251221215459.png",
     "Pasted image 20251221215644.png",
-    "Skarn.md",
-    "K'Kree.md",
-    "Bwaps.md",
-    "Atta-pawa-a.md",
-    "Sponge Moss.md",
-    "Worm-Root.md",
-    "Cabaça-Flutuante.md",
-    "Limo-Solar.md",
-    "Sandpaper Reed.md",
     "templates"
   ]
 }
