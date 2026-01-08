@@ -73,4 +73,76 @@ Devido à remoção dos limitadores de eficiência energética, o consumo é vor
 - **Cartucho de Gás:** Geralmente dura o equivalente a duas baterias, sendo necessário trocá-lo com menos frequência que a fonte de energia.
 
 ![[Pasted image 20251223215259.png]]
+
+---
+# [[GURPS]]
+
+| **Weapon**              | **Damage** | **Acc** | **Range** | **Wt** | **RoF** | **Shots** | **ST** | **Bulk** | **Rcl** | **Cost** |
+| ----------------------- | ---------- | ------- | --------- | ------ | ------- | --------- | ------ | -------- | ------- | -------- |
+| **Plasma Cutter (Mod)** | 3d(5) burn | 3       | 2/5       | 20lb   | 10*     | 40(5)     | 12†    | -6       | 1       | $2,000   |
+### Regras Especiais e Notas de Conversão
+
+Aqui está a tradução da descrição visceral para as regras do sistema:
+
+#### 1. Dano e o "Corte Absoluto"
+
+- **3d(5) burn:** O dano base é 3 dados (média de 10-11 pontos). O tipo é _Burning_ (queimadura).
+    
+- **Divisor de Armadura (5):** É aqui que a arma brilha. Ela divide a RD (Resistência a Dano) do alvo por 5.
+    
+    - _Exemplo:_ Um traje de segurança pesado com RD 25 conta apenas como RD 5. O plasma atravessa como papel.
+        
+- **Jato (Jet):** Devido à natureza da projeção (cone sem contenção), trate este ataque como um **Jato**. Isso significa que você usa a perícia _Beam Weapons (Projector)_, mas ignora penalidades de distância (já que o alcance é mínimo). O alvo pode Bloquear (Block) ou Esquivar (Dodge), mas não Aparar (Parry).
+    
+
+#### 2. Efeito de Cone (Dano em Área)
+
+Como o bocal foi removido e o plasma se espalha:
+
+- O ataque tem o modificador **Cone (1 jarda)** no alcance máximo. Isso significa que a 5 metros, o feixe tem 1 metro de largura.
+    
+- Isso torna difícil errar, concedendo **+1 ou +2** para acertar alvos grandes a curta distância, mas também significa que é difícil fazer "tiros de precisão" (como acertar apenas a cabeça) sem atingir o ombro junto.
+    
+
+#### 3. Instabilidade Térmica (Overheating)
+
+A arma não foi feita para isso.
+
+- **Malf (Falha):** 16.
+    
+- **Contador de Calor:** Se o jogador disparar rajadas longas (segurar o gatilho por mais de 3 segundos consecutivos), a Malf cai para 14.
+    
+- **Falha Crítica:** A arma superaquece catastroficamente.
+    
+    - _Resultado 1:_ A bateria explode (3d cr ex na mão do usuário).
+        
+    - _Resultado 2:_ O bocal derrete, inutilizando a arma permanentemente.
+        
+
+#### 4. Risco ao Usuário (Backblast)
+
+- Devido à falta de escudo e "respingos" de plasma, a cada turno que a arma é disparada, o usuário deve fazer um teste de **DX**.
+    
+    - **Falha:** O usuário sofre 1 ponto de dano de queimadura por faíscas que atingem áreas expostas ou queimam o uniforme.
+        
+    - _Proteção:_ Se o usuário estiver usando óculos de proteção e luvas pesadas (RD 2+), ele ignora esse risco.
+        
+
+#### 5. Munição Dupla (Logística de Pesadelo)
+
+A tabela _Shots_ diz `40(5)`.
+
+- **40 segundos de fogo:** Isso equivale a 40 disparos de 1 segundo.
+    
+- **Recarga:** O tempo `(5)` é para trocar a **Bateria**.
+    
+- **Tanque de Gás:** O texto diz que dura o dobro. Então, a cada **2 trocas de bateria**, o jogador deve gastar **10 segundos** adicionais para trocar o tanque de gás lateral.
+    
+
+#### 6. Utilidade (Ferramenta)
+
+Apesar de ser uma arma ruim (pesada, curto alcance), ela é uma chave mestra.
+
+- O jogador recebe **+4 em testes de Forced Entry (Entrada Forçada)** para cortar dobradiças, derreter fechaduras eletrônicas ou abrir buracos em anteparas de naves. O divisor de armadura (5) aplica-se à RD da porta/parede.
+
 ## References

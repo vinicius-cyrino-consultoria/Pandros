@@ -96,4 +96,81 @@ Não é apenas o calor que destrói a arma, mas a própria força que ela gera.
 | **Baixa Intensidade**        | Mínimo                 | **500 - 1.000 tiros**              | Velocidade subsônica. Silencioso. Ideal para abate de alvos sem armadura.                |
 | **Padrão (Combate)**         | Moderado               | **100 - 200 tiros**                | Velocidade supersônica. Atravessa paredes de concreto e coletes pesados.                 |
 | **Sobrecarga (Hipersônico)** | Máximo                 | **20 - 50 tiros**                  | Velocidade Mach 5+. O projétil brilha devido ao atrito com o ar. Destrói veículos leves. |
+
+---
+
+# [[GURPS]]
+
+| **Weapon**             | **Damage** | **Acc** | **Range** | **Wt** | **RoF** | **Shots** | **ST** | **Bulk** | **Rcl** | **Cost** |
+| ---------------------- | ---------- | ------- | --------- | ------ | ------- | --------- | ------ | -------- | ------- | -------- |
+| **Gauss Rifle (Low)**  | 4d pi-     | 7+2     | 300/1500  | 22lb   | 10      | 100(3)    | 13†    | -6       | 1       | $5,500   |
+| **Gauss Rifle (Stnd)** | 8d(3) pi-  | 7+2     | 1200/5500 | 22lb   | 8       | 100(3)    | 13†    | -6       | 1       | -        |
+| **Gauss Rifle (Over)** | 6d×2(3) pi | 7+3     | 2000/9000 | 22lb   | 1       | 100(3)    | 13†    | -6       | 2       | -        |
+
+### Regras Especiais e Mecânicas de Jogo
+
+Aqui está a tradução dos conceitos de física para as regras:
+
+#### 1. O "Muro Térmico" (Thermal Wall)
+
+Esta é a falha crítica de design da arma. O mestre deve monitorar o calor acumulado.
+
+- **Limiar de Calor:** A arma possui um "contador de calor" de **15 pontos**.
+    
+    - Cada tiro _Standard_ gera 1 ponto.
+        
+    - Cada tiro _Overcharge_ gera 5 pontos.
+        
+    - Tiros _Low_ não geram calor significativo.
+        
+- **Resfriamento:** A arma dissipa 2 pontos de calor por turno que **não** estiver disparando.
+    
+- **Sobreaquecimento:** Se o contador exceder 15, a arma entra em _Lockdown_. Ela trava e expele vapor por 1d+2 segundos. Se o jogador tentar forçar o tiro (Hack de Eletrônica -4), a arma dispara, mas deve fazer um teste de HT. Falha resulta em derretimento das bobinas (Arma destruída e 2d de dano de queimadura na mão do usuário).
+    
+
+#### 2. Munição vs. Energia
+
+A tabela _Shots_ indica `100(3)`. Isso significa:
+
+- **Munição Física:** O carregador contém 100 flechetes de tungstênio.
+    
+- **Bateria:** A célula de energia (Power Cell) é separada.
+    
+    - _Low Mode:_ 1 carga por tiro (500-1000 tiros por célula).
+        
+    - _Standard Mode:_ 5 cargas por tiro (100-200 tiros por célula).
+        
+    - _Overcharge:_ 20 cargas por tiro (25-50 tiros por célula).
+        
+
+#### 3. Tempo de "Spin-up" (Atraso dos Capacitores)
+
+- **Modo Standard:** Ao puxar o gatilho, a arma dispara imediatamente, mas o _Rate of Fire_ (RoF) é limitado pela reciclagem dos capacitores.
+    
+- **Modo Overcharge:** Exige uma manobra **Ready (Preparar)** antes de disparar para carregar os capacitores ao máximo. Durante esse segundo, a arma emite o zumbido agudo e o brilho intenso descritos.
+    
+    - _Stealth:_ Durante o _Spin-up_, o usuário recebe **-4 em testes de Furtividade** (devido ao som) e é visível no escuro (brilho).
+        
+
+#### 4. Dano e Física (Damage Types)
+
+- **(3) Divisor de Armadura:** Flechetes de tungstênio a velocidades hipersônicas ignoram 2/3 da RD do alvo.
+    
+- **pi- vs pi:** Normalmente flechetes causam dano _Small Piercing_ (`pi-`). Porém, no modo _Overcharge_, a onda de choque hidrostática é tão violenta que tratamos como _Piercing_ normal (`pi`), ou até _Large Piercing_ (`pi+`) se o mestre quiser enfatizar o "efeito fluido" em alvos orgânicos.
+    
+
+#### 5. Efeito Joule e Assinatura
+
+- **Standard/Overcharge:** O disparo quebra a barreira do som. É impossível silenciar. O "estalo" ocorre em toda a trajetória do projétil, não apenas na boca da arma.
+    
+- **Rastro de Ozônio:** Após um tiro _Overcharge_, um teste de Faro (Perception ou Smell) a +4 detecta o cheiro de ozônio e metal queimado na área.
+    
+
+#### 6. Estresse Mecânico (Maintenance)
+
+Devido à Força de Lorentz tentando expandir a arma de dentro para fora:
+
+- **Malf (Falha):** 17 (A arma é temperamental).
+    
+- **Falha Crítica:** Diferente de armas de fogo (que engasgam), uma falha crítica aqui significa desalinhamento das bobinas. A precisão (Acc) cai permanentemente para 2 até que um teste de _Armoury (Heavy Weapons)_ ou _Electronics Repair_ seja feito (demora 1 hora).
 ## References

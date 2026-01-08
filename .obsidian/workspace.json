@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GURPS.md",
+                "file": "GURPS - Equipment and TL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GURPS"
-            }
-          },
-          {
-            "id": "c7bbbef98d2dcd0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GURPS - Character Advancement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GURPS - Character Advancement"
+              "title": "GURPS - Equipment and TL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GURPS",
+                "query": "tag:#humanos  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f6defb7299d80150",
@@ -184,12 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7bbbef98d2dcd0f",
+  "active": "803ec021cf058862",
   "lastOpenFiles": [
-    "GURPS - Character Advancement.md",
-    "GURPS.md",
-    "GURPS - Equipment and TL.md",
     "GURPS - Guns.md",
+    "Plasma Cutter.md",
+    "Human - Guns.md",
+    "Arc Spears.md",
+    "Gauss Rifles.md",
+    "Compound Crossbows Mk-II.md",
+    "Nail Gun.md",
+    "Neddle Gun.md",
+    "GURPS - Equipment and TL.md",
+    "GURPS.md",
+    "GURPS - Character Advancement.md",
     "GURPS - Range Weapons.md",
     "GURPS - Melee Weapons.md",
     "GURPS - Armor.md",
@@ -205,13 +198,6 @@
     "GURPS - Attack Damage.md",
     "GURPS -  Defense.md",
     "GURPS - Attack.md",
-    "GURPS - SUCCESS ROLLS.md",
-    "GURPS - Basic Move.md",
-    "GURPS - Character Creation.md",
-    "GURPS - Skills.md",
-    "GURPS - Techniques.md",
-    "GURPS - Disadvantages.md",
-    "GURPS - Advantages.md",
     "Pasted image 20260107160346.png",
     "Pasted image 20251222142930.png",
     "Pasted image 20251222142435.png",

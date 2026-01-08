@@ -11,7 +11,8 @@ aliases: []
 
 RoF = Rate of Fire
 Wt = Weight
+Números entre parênteses depois do dano são - [[GURPS - Armor Divisors]]
+**pi-** = small piercing
 
-| **Weapon** | **Type** | **Damage** | **Shots** | **Acc** | **RoF** | **Min [[GURPS - Strength]]** | **TL** | **Wt** |
-| ---------- | -------- | ---------- | --------- | ------- | ------- | ---------------------------- | ------ | ------ |
+[[Human - Guns]]
 ## References
