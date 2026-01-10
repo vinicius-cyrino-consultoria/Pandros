@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f74f20fc5419583",
+        "id": "f10f85ebd88842f3",
         "type": "tabs",
         "children": [
           {
-            "id": "803ec021cf058862",
+            "id": "8a3f84623f483646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GURPS - Equipment and TL.md",
+                "file": "3D&T Victory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GURPS - Equipment and TL"
+              "title": "3D&T Victory"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f6defb7299d80150",
@@ -170,34 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "803ec021cf058862",
+  "active": "8a3f84623f483646",
   "lastOpenFiles": [
-    "GURPS - Guns.md",
-    "Plasma Cutter.md",
-    "Human - Guns.md",
-    "Arc Spears.md",
-    "Gauss Rifles.md",
-    "Compound Crossbows Mk-II.md",
-    "Nail Gun.md",
-    "Neddle Gun.md",
-    "GURPS - Equipment and TL.md",
-    "GURPS.md",
-    "GURPS - Character Advancement.md",
-    "GURPS - Range Weapons.md",
-    "GURPS - Melee Weapons.md",
-    "GURPS - Armor.md",
-    "GURPS - Shield.md",
-    "Technological Level.md",
-    "TL4.md",
-    "TL3.md",
-    "TL2.md",
-    "TL1.md",
-    "TL0.md",
-    "GURPS - Combat.md",
-    "GURPS - Unarmed Combat.md",
-    "GURPS - Attack Damage.md",
-    "GURPS -  Defense.md",
-    "GURPS - Attack.md",
+    "3D&T - Escalas de Poder.md",
+    "3D&T Victory.md",
+    "3D&T - Ação e Movimento.md",
+    "3D&T - Recuperar Recursos.md",
+    "3D&T - Morte.md",
+    "3D&T - Derrota.md",
+    "3D&T - Combate.md",
+    "3D&T - Defesa.md",
+    "3D&T - Ataque.md",
+    "3D&T - Iniciativa.md",
+    "3D&T - Falha Crítico.md",
+    "3D&T - Sucesso Crítico.md",
+    "3D&T - Perda.md",
+    "3D&T - Ganho.md",
+    "3D&T - Vantagens.md",
+    "3D&T - Ágil.md",
+    "3D&T - Acumulador.md",
+    "3D&T - +Ação.md",
+    "3D&T - Aceleração.md",
+    "3D&T - Perícias.md",
+    "3D&T - Atributos.md",
+    "3D&T - Resistência.md",
+    "3D&T - Pontos de Vida.md",
+    "3D&T - Poder.md",
+    "3D&T - Pontos de Ação.md",
+    "3D&T - Habilidade.md",
     "Pasted image 20260107160346.png",
     "Pasted image 20251222142930.png",
     "Pasted image 20251222142435.png",
