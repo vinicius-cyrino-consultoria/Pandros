@@ -12,7 +12,7 @@ aliases: []
 **Tipo:** Assentamento / Destroços de Cargueiro 
 **Localização:** Atol de [[Atta-pawa-a]],. 
 **População:** ~200 habitantes (Humanos e [[Bwaps]] Renegados). 
-**Filosofia:** [[Uplifters]].
+**Filosofia:** [[Arquétipo - Uplifters]].
 
 --------------------------------------------------------------------------------
 # Geografia
@@ -27,7 +27,7 @@ O evento do encalhe causou um cisma na tripulação original:
 
 1. **Os Evacuados:** Uma parte significativa da tripulação abandonou os destroços, buscando refúgio na [[SF Abundance]].
 
-2. **Os Residentes (Uplifters):** Os indivíduos restantes optaram por permanecer no navio. Este grupo formou o núcleo da sociedade dos **[[Uplifters]]** na região, utilizando o casco da nave como base de operações para sua agenda de "infiltração benevolente" nas sociedades alienígenas.
+2. **Os Residentes (Uplifters):** Os indivíduos restantes optaram por permanecer no navio. Este grupo formou o núcleo da sociedade dos **[[Arquétipo - Uplifters]]** na região, utilizando o casco da nave como base de operações para sua agenda de "infiltração benevolente" nas sociedades alienígenas.
 
 **Estrutura e Adaptação**
 
@@ -37,13 +37,13 @@ A nave é uma anomalia visual na paisagem natural de [[Pandros]]. É uma fortale
 
 • **Integração Ecológica:** Com o passar dos anos, a natureza começou a reclamar a estrutura. O convés esta coberto por **[[Limo-Solar]]**, fornecendo iluminação natural à noite, e que as partes inferiores do casco estão envoltas pelas raízes aéreas do **[[Mangue-Catedral]]**.
 
-• **Energia:** Sendo um cargueiro nuclear, o reator da nave fornece energia elétrica constante. Isso permite confortos impensáveis para os nativos, como refrigeração e purificação de água, essenciais para a manutenção da tecnologia dos **[[Uplifters]]**.
+• **Energia:** Sendo um cargueiro nuclear, o reator da nave fornece energia elétrica constante. Isso permite confortos impensáveis para os nativos, como refrigeração e purificação de água, essenciais para a manutenção da tecnologia dos **[[Arquétipo - Uplifters]]**.
 
 **Demografia e Sociedade**
 
 A sociedade de NS Tranquility é um caso raro de coexistência interespecífica íntima, unida pela necessidade e filosofia.
 
-**1. Os Humanos ([[Uplifters]])**
+**1. Os Humanos ([[Arquétipo - Uplifters]])**
 
 Os humanos residentes mantêm a cultura colonial de supressão de violência e foco no intelecto,. Eles atuam como "sábios" ou mentores, utilizando o conhecimento científico (como medicina e engenharia) para influenciar sutilmente as populações vizinhas de [[Pawab-a-pawa]] e [[Wak-a-Wapawab]]. Eles guardam suas ferramentas avançadas (tablets, cortadores de plasma) como "relíquias", usando-as apenas em emergências para manter a fachada de misticismo científico.
 

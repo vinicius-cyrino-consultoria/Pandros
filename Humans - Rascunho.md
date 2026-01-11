@@ -34,7 +34,7 @@ Após o fim da guerra civil a sociedade unificada da colônia deixou de existir.
 
 Sem uma liderança central e com a infraestrutura principal danificada, a humanidade se dividiu em duas vertentes principais, radicalmente opostas em filosofia e sobrevivência.
 
-### [[Grid-Keepers]]
- [[The Wanderers]]
+### [[Arquétipo - Grid-Keepers]]
+ [[Arquétipo - The Wanderers]]
 
 ## References

@@ -11,7 +11,7 @@ aliases: []
 **Tipo:** Assentamento / Instalação de Aquicultura Industrial 
 **Localização:** Atol de [[Atta-pawa-a]]. 
 **População:** Human. 
-**Filosofia:** [[Grid-Keepers]]
+**Filosofia:** [[Arquétipo - Grid-Keepers]]
 **Fonte de Energia:** Conectada via cabo submarino ao **[[TP 4]]**.
 
 --------------------------------------------------------------------------------
