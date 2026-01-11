@@ -20,6 +20,22 @@ aliases: []
 
 ![[Atta-pawa-a 2026-01-11-19-45.png]]
 
+---
+# Ilhas 
+
+#### Ilhas Grandes
+
+1. [[Ilha 1]]
+2. [[Ilha 2]]
+3. [[Ilha 3]]
+4. [[Ilha 4]]
+5. [[Ilha 5]]
+6. [[Ilha 6]]
+7. [[Ilha 7]]
+8. [[Ilha 8]]
+
+---
+
 Originalmente lar de comunidades [[Bwaps]], o arquipélago sofreu uma transformação drástica com a expansão violenta dos [[Humans]], resultando em massacres e na consolidação forçada do território. Sob domínio humano, as ilhas tornaram-se um polo de pesquisa, indústria e mineração, pontilhadas por portos e uma grande metrópole.
 
 A Guerra Civil, no entanto, devastou a região. Muitas instalações foram destruídas e vastas áreas tornaram-se zonas de exclusão radioativa. Atualmente, a ilha principal está sob ocupação do [[Aslan Empire]], que busca avidamente recuperar tecnologia e especialistas humanos. As demais ilhas, isoladas do continente, converteram-se em refúgios para sobreviventes e alienígenas em busca de liberdade, aproveitando os recursos deixados para trás.
@@ -39,13 +55,6 @@ Tecnologia:
 
 # Sociedade [[Arquétipo - Uplifters]]
 
-Cidades:
-- **[[NS Tranquility]]**
-
-[[SF Abundance]]
-
----
-# [[Atta-pawa-a - História]]
 ---
 # Animais
 
