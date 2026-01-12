@@ -33,8 +33,10 @@ aliases: []
 6. [[Ilha 6]]
 7. [[Ilha 7]]
 8. [[Ilha 8]]
+9. [[Ilha 9]]
 
 ---
+# Historia 
 
 Originalmente lar de comunidades [[Bwaps]], o arquipélago sofreu uma transformação drástica com a expansão violenta dos [[Humans]], resultando em massacres e na consolidação forçada do território. Sob domínio humano, as ilhas tornaram-se um polo de pesquisa, indústria e mineração, pontilhadas por portos e uma grande metrópole.
 
@@ -44,6 +46,7 @@ A maior [[Free City]] reergueu-se sobre as fundações de uma antiga cidade cost
 
 Hoje, **faz 40 anos** que a [[Human Civil War]] terminou. O arquipélago sobrevive através de uma rede de comércio entre as várias Cidades Livres. Embora o [[Aslan Empire]] cobice o controle total e o _know-how_ humano, suas linhas de suprimento frágeis e a debilidade da [[Aslan Imperial Navy]] forçam uma tolerância relutante. Os [[Aslan]] são obrigados a negociar, limitando-se a intervenções pontuais ou manipulações políticas locais.
 
+---
 # Sociedade [[Bwaps]]
 
 Cidades:
@@ -53,7 +56,7 @@ Cidades:
 Tecnologia:
 [[Bwaps Naval Tecnology]]
 
-# Sociedade [[Arquétipo - Uplifters]]
+
 
 ---
 # Animais
