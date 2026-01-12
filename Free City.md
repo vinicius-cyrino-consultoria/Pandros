@@ -14,5 +14,9 @@ As **Cidades Livres** (_Free Cities_) surgiram das cinzas de antigas instalaçõ
 ---
 # Cidades
 
-A principal cidade é: [[Fu Yijun City]]
+A principal cidade é: [[Fu Yijun City]];
+
+Outras cidades:
+
+- [[AF Abundance]]
 ## References

@@ -20,13 +20,9 @@ Localizada na [[Ilha 3]], esta é a principal [[Free City]] do arquipélago [[At
 A cidade é governada pelos humanos do [[Arquétipo - Uplifters]]. O regime é **autoritário**, com poder de decisão centralizado no conselho, mas adota uma postura **não-intervencionista na esfera social**. O governo não busca microgerenciar a vida dos cidadãos, focando estritamente em quatro pilares fundamentais:
 
 1. Mediação de conflitos;
-    
 2. Coleta de impostos;
-    
 3. Manutenção da ordem pública (Paz);
-    
 4. Gestão da infraestrutura básica.
-    
 
 ---
 # Sociedade
