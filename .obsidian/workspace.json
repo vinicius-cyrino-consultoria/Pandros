@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Atta-pawa-a"
             }
+          },
+          {
+            "id": "3466e82c42826a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ilha 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ilha 3"
+            }
+          },
+          {
+            "id": "6abbc7ab77336e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free City"
+            }
+          },
+          {
+            "id": "ecfbf00bab53f467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fu Yijun City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fu Yijun City"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c",
+                "query": "Human Calendar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,18 +212,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ad8dc5e2dca0a7f",
+  "active": "ecfbf00bab53f467",
   "lastOpenFiles": [
-    "Ilha 9.md",
+    "Arquétipo - Arc-Regents.md",
+    "Fu Yijun City.md",
+    "Arquétipo - Uplifters.md",
+    "Ilha 3.md",
+    "Free City.md",
+    "Humanity's calendar.md",
     "Atta-pawa-a.md",
+    "Ilha 1.md",
+    "Ilha 9.md",
     "Ilha 8.md",
     "Ilha 7.md",
     "Ilha 6.md",
     "Ilha 5.md",
     "Ilha 4.md",
-    "Ilha 3.md",
     "Ilha 2.md",
-    "Ilha 1.md",
     "NS Tranquility.md",
     "SF Abundance.md",
     "Atta-pawa-a - História.md",
@@ -189,15 +237,10 @@
     "Humans - Rascunho.md",
     "Arquétipo - The Wanderers.md",
     "Arquétipo -  Atavists.md",
-    "Arquétipo - Uplifters.md",
-    "Arquétipo - Arc-Regents.md",
     "Arquétipo - Grid-Keepers.md",
     "Oxford Faction.md",
     "Pawab-a-pawa.md",
     "Arquipélago.md",
-    "Human Civil War.md",
-    "Fusion Reactors.md",
-    "Vector Series - Reactor.md",
     "Pasted image 20260104150239.png",
     "Pasted image 20251222070937 1.png",
     "Pasted image 20251222070937.png",
