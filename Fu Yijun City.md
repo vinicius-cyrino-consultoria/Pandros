@@ -12,7 +12,7 @@ aliases: []
 
 **População:** 150.000 habitantes
 
-Localizada na [[Ilha 3]], esta é a principal [[Free City]] do arquipélago [[Atta-pawa-a]]. A cidade consolidou-se como o centro vital da região, impulsionada pela geração de energia do [[Vector Series - Reactor]]. Graças a essa infraestrutura e à segurança que ela provê, a cidade desfruta dos benefícios econômicos da concentração urbana, detendo também o monopólio das principais casas financeiras.
+Localizada na [[Ilha 3]], esta é a principal [[Free City]] do arquipélago [[Atta-pawa-a Archipelago]]. A cidade consolidou-se como o centro vital da região, impulsionada pela geração de energia do [[Vector Series - Reactor]]. Graças a essa infraestrutura e à segurança que ela provê, a cidade desfruta dos benefícios econômicos da concentração urbana, detendo também o monopólio das principais casas financeiras.
 
 ---
 # Governo

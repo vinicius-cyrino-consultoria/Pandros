@@ -9,7 +9,7 @@ aliases: []
 
 ---
 
-Foi a primeira cidade fundada pelos [[Bwaps]] na ilha de [[Atta-pawa-a]]. É chamada de lar por vinte e cinco mil Bwaps e se localiza nas margens do rio [[Wapawab-a-wa]]. Esta sete quilômetros rio acima da lagoa de [[Atta-Kabapa]].
+Foi a primeira cidade fundada pelos [[Bwaps]] na ilha de [[Atta-pawa-a Archipelago]]. É chamada de lar por vinte e cinco mil Bwaps e se localiza nas margens do rio [[Wapawab-a-wa]]. Esta sete quilômetros rio acima da lagoa de [[Atta-Kabapa]].
 
 # Clima, geografia e temperatura
 

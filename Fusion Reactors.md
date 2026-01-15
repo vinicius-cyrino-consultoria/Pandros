@@ -11,5 +11,5 @@ aliases: []
 
 1. [[Atlas Series - Reactor]]
 2. [[Helix Series - Reactor]]
-3. [[Vector Series  - Reactor]]
+3. [[Vector Series - Reactor]]
 ## References
