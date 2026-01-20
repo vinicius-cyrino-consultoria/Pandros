@@ -14,11 +14,20 @@ aliases: []
 **Área**: 450 km²
 
 ---
-# Resumo 
+# Resumo Histórico e Geopolítico
 
-A história da ilha é marcada pela transição violenta de seus habitantes originais, os **[[Bwaps]]**, para o domínio dos **[[Humans]]**. Após um período de intensa industrialização e urbanização, a **[[Human Civil War]]** devastou o território com agentes biológicos e radiação. A **[[Oxford Faction]]** deteve o controle de **[[Atta-pawa-a Archipelago]]**, mas abandonou a ilha devido à destruição ambiental. Atualmente, a ilha é ocupada pelo **[[Aslan Empire]]** e grupos de sobreviventes humanos, cujo principal objetivo é a extração de tecnologia legada. Essa ilha foi despovoada de [[Bwaps]], com eles sendo expulsos ou mortos. O restante da ilha foi colonizado por humanos. Hoje a ilha é completamente dominada pelo [[Aslan Empire]], com alguns bases navais e cidade de tamanho mediano.
+A história da ilha é definida pela violenta substituição de seus habitantes originais, os **[[Bwaps]]** — que foram sistematicamente expulsos ou exterminados — pelos colonizadores **[[Humans]]**. Após um período de intensa industrialização, o território foi assolado pela **[[Human Civil War]]**, sofrendo danos catastróficos por agentes biológicos e radiação.
 
-# Cidades
+Embora a **[[Oxford Faction]]** tenha detido o controle nominal do **[[Atta-pawa-a Archipelago]]**, a ilha foi abandonada por eles devido ao colapso ambiental. Atualmente, o território encontra-se sob hegemonia total do **[[Aslan Empire]]**, que estabeleceu bases navais estratégicas e mantém a ordem na região. A população atual consiste em oficiais imperiais e grupos de sobreviventes humanos focados na recuperação de espólios de guerra.
 
-A única cidade é [[Caesena]]
+---
+# Centros Urbanos e Logísticos 
+
+O único centro urbano de relevância é a cidade de **[[Caesena]]**.
+
+# Economia
+
+A atividade econômica é estritamente extrativista, focada na recuperação de tecnologia legada ("scavenging") e no envio de contingentes humanos para o continente. Toda a cadeia produtiva é supervisionada pela hierarquia militar do **[[Aslan Empire]]**.
+
+A única exceção a esse monopólio de poder é o grupo humano que opera a única fazenda automatizada funcional da ilha. Por deterem o monopólio do suprimento alimentar, eles possuem um poder de barganha singular frente aos ocupantes Aslan. À margem dessa estrutura, grupos menores sobrevivem comercializando artefatos tecnológicos e prisioneiros humanos para o Império.
 ## References

@@ -12,6 +12,8 @@ aliases: []
 
 **Raça:** Gnomo do Bosque | **Classe:** Bardo (Colégio da Dança) | **Nível:** 3
 
+![[Pasted image 20260120203537.png]]
+
 ---
 ## 📊 Atributos e Status Base
 
